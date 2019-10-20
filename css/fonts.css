@@ -1,0 +1,19 @@
+@font-face {
+    font-family: 'dejavu';
+    src: url('../fonts/dejavu-sans-condensed-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/dejavu-sans-condensed-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/dejavu-sans-condensed-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/dejavu-sans-condensed-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/dejavu-sans-condensed-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/dejavu-sans-condensed-webfont.svg#dejavu_sans_condensedregular') format('svg'); /* Legacy iOS */
+}
+
+@font-face {
+    font-family: 'wglaho';
+    src: url('../fonts/bpg-glaho-web-caps-webfont.eot'); /* IE9 Compat Modes */
+    src: url('../fonts/bpg-glaho-web-caps-webfont.eot?#iefix') format('embedded-opentype'), /* IE6-IE8 */
+         url('../fonts/bpg-glaho-web-caps-webfont.woff2') format('woff2'), /* Super Modern Browsers */
+         url('../fonts/bpg-glaho-web-caps-webfont.woff') format('woff'), /* Pretty Modern Browsers */
+         url('../fonts/bpg-glaho-web-caps-webfont.ttf') format('truetype'), /* Safari, Android, iOS */
+         url('../fonts/bpg-glaho-web-caps-webfont.svg#bpg_glaho_web_capsregular') format('svg'); /* Legacy iOS */
+}
